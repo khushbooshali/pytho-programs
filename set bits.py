@@ -1,5 +1,6 @@
 Question No 1 :- wap to count set Bits in an integer using functions.
-                (the program finds the number of ones in the binary representstion of a number.)
+                (the program finds the number of ones in the binary representstion
+                of a number.)
 
 def count_set_bits(number):
     binary_representation = bin(number)
